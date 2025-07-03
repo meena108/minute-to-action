@@ -40,7 +40,7 @@ A simple Streamlit app that simulates:
 - **Streamlit**
 
 
-## 🚀 Get Started  
+## 🚀 Get Started , let's build!
 
 ## Run Locally
 
